@@ -20,7 +20,5 @@ end
 def now_serving(katz_deli)
 if katz_deli.size == 0 
   puts "There is nobody waiting to be served!"
-else number = 1 
-  katz_deli.each do |customer|
-    current_line 
+else 
 end
